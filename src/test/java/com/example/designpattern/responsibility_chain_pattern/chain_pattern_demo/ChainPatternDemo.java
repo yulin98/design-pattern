@@ -1,15 +1,14 @@
-package com.example.designpattern.responsibility_chain_model.chain_pattern_demo;
+package com.example.designpattern.responsibility_chain_pattern.chain_pattern_demo;
 
-import com.example.designpattern.responsibility_chain_model.abstra.AbstractLogger;
-import com.example.designpattern.responsibility_chain_model.ConsoleLogger;
-import com.example.designpattern.responsibility_chain_model.ErrorLogger;
-import com.example.designpattern.responsibility_chain_model.FileLogger;
+import com.example.designpattern.responsibility_chain_pattern.abstra.AbstractLogger;
+import com.example.designpattern.responsibility_chain_pattern.ConsoleLogger;
+import com.example.designpattern.responsibility_chain_pattern.ErrorLogger;
+import com.example.designpattern.responsibility_chain_pattern.FileLogger;
 
 /**
  * 责任链模式测试
  */
 public class ChainPatternDemo {
-
     private static AbstractLogger getChainOfLoggers(){
 
         AbstractLogger errorLogger = new ErrorLogger(AbstractLogger.ERROR);

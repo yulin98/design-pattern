@@ -1,6 +1,6 @@
-package com.example.designpattern.responsibility_chain_model;
+package com.example.designpattern.responsibility_chain_pattern;
 
-import com.example.designpattern.responsibility_chain_model.abstra.AbstractLogger;
+import com.example.designpattern.responsibility_chain_pattern.abstra.AbstractLogger;
 
 public class FileLogger extends AbstractLogger {
 

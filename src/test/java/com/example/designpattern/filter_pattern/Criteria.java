@@ -1,6 +1,6 @@
-package com.example.designpattern.filter_mode;
+package com.example.designpattern.filter_pattern;
 
-import com.example.designpattern.filter_mode.entity.Person;
+import com.example.designpattern.filter_pattern.entity.Person;
 
 import java.util.List;
 

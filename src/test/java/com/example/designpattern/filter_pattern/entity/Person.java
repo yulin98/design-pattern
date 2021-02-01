@@ -1,4 +1,4 @@
-package com.example.designpattern.filter_mode.entity;
+package com.example.designpattern.filter_pattern.entity;
 
 public class Person {
     private String name;

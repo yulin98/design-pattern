@@ -1,11 +1,14 @@
-package com.example.designpattern.filter_mode;
+package com.example.designpattern.filter_pattern;
 
-import com.example.designpattern.filter_mode.entity.Person;
-import com.example.designpattern.filter_mode.impl.*;
+import com.example.designpattern.filter_pattern.entity.Person;
+import com.example.designpattern.filter_pattern.impl.*;
 
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 过滤器模式
+ */
 public class CriteriaPatternDemo {
 
     public static void main(String[] args) {
