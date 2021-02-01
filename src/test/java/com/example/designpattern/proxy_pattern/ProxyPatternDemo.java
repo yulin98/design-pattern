@@ -2,6 +2,9 @@ package com.example.designpattern.proxy_pattern;
 
 import com.example.designpattern.proxy_pattern.impl.ProxyImage;
 
+/**
+ * 代理模式
+ */
 public class ProxyPatternDemo {
 
     public static void main(String[] args) {
