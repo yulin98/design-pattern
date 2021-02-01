@@ -1,4 +1,4 @@
-package com.example.designpattern.responsibility_chain_pattern.chain_pattern_demo;
+package com.example.designpattern.responsibility_chain_pattern;
 
 import com.example.designpattern.responsibility_chain_pattern.abstra.AbstractLogger;
 import com.example.designpattern.responsibility_chain_pattern.ConsoleLogger;
