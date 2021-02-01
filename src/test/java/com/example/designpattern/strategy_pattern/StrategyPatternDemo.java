@@ -4,6 +4,9 @@ import com.example.designpattern.strategy_pattern.impl.OperationAdd;
 import com.example.designpattern.strategy_pattern.impl.OperationMultiply;
 import com.example.designpattern.strategy_pattern.impl.OperationSubtract;
 
+/**
+ * 策略模式
+ */
 public class StrategyPatternDemo {
     public static void main(String[] args) {
         Context context = new Context(new OperationAdd());
