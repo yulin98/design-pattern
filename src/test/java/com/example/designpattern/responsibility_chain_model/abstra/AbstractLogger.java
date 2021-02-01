@@ -1,4 +1,4 @@
-package com.example.designpattern.responsibility_chain_model;
+package com.example.designpattern.responsibility_chain_model.abstra;
 
 public abstract class AbstractLogger {
     public static int INFO = 1;

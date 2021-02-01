@@ -1,5 +1,7 @@
 package com.example.designpattern.responsibility_chain_model;
 
+import com.example.designpattern.responsibility_chain_model.abstra.AbstractLogger;
+
 public class ErrorLogger extends AbstractLogger {
 
     public ErrorLogger(int level){

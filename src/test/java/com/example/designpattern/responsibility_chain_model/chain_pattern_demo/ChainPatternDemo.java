@@ -1,6 +1,6 @@
 package com.example.designpattern.responsibility_chain_model.chain_pattern_demo;
 
-import com.example.designpattern.responsibility_chain_model.AbstractLogger;
+import com.example.designpattern.responsibility_chain_model.abstra.AbstractLogger;
 import com.example.designpattern.responsibility_chain_model.ConsoleLogger;
 import com.example.designpattern.responsibility_chain_model.ErrorLogger;
 import com.example.designpattern.responsibility_chain_model.FileLogger;
