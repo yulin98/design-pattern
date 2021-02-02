@@ -1,6 +1,6 @@
 package com.example.designpattern.adapter_pattern.impl;
 
-import com.example.designpattern.adapter_pattern.AdvancedMediaPlayer;
+import com.example.designpattern.adapter_pattern.interf.AdvancedMediaPlayer;
 
 public class VlcPlayer implements AdvancedMediaPlayer {
     @Override

@@ -1,5 +1,7 @@
 package com.example.designpattern.strategy_pattern;
 
+import com.example.designpattern.strategy_pattern.interf.Strategy;
+
 public class Context {
     private Strategy strategy;
 

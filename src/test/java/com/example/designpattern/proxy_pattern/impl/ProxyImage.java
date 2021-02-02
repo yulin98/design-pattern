@@ -1,6 +1,6 @@
 package com.example.designpattern.proxy_pattern.impl;
 
-import com.example.designpattern.proxy_pattern.Image;
+import com.example.designpattern.proxy_pattern.interf.Image;
 
 public class ProxyImage implements Image {
 

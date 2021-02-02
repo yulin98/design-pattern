@@ -1,6 +1,7 @@
 package com.example.designpattern.proxy_pattern;
 
 import com.example.designpattern.proxy_pattern.impl.ProxyImage;
+import com.example.designpattern.proxy_pattern.interf.Image;
 
 /**
  * 代理模式

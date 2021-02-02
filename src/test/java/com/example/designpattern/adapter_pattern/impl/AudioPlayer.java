@@ -1,6 +1,6 @@
 package com.example.designpattern.adapter_pattern.impl;
 
-import com.example.designpattern.adapter_pattern.MediaPlayer;
+import com.example.designpattern.adapter_pattern.interf.MediaPlayer;
 
 public class AudioPlayer implements MediaPlayer {
     MediaAdapter mediaAdapter;

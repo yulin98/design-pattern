@@ -1,6 +1,6 @@
 package com.example.designpattern.strategy_pattern.impl;
 
-import com.example.designpattern.strategy_pattern.Strategy;
+import com.example.designpattern.strategy_pattern.interf.Strategy;
 
 public class OperationMultiply implements Strategy {
     @Override

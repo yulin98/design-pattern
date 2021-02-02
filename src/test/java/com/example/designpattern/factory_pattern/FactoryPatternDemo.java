@@ -1,5 +1,7 @@
 package com.example.designpattern.factory_pattern;
 
+import com.example.designpattern.factory_pattern.interf.Shape;
+
 /**
  * 工厂模式
  */

@@ -3,6 +3,7 @@ package com.example.designpattern.factory_pattern;
 import com.example.designpattern.factory_pattern.impl.Circle;
 import com.example.designpattern.factory_pattern.impl.Rectangle;
 import com.example.designpattern.factory_pattern.impl.Square;
+import com.example.designpattern.factory_pattern.interf.Shape;
 
 public class ShapeFactory {
 

@@ -1,6 +1,6 @@
-package com.example.designpattern.factory_pattern.impl;
+package com.example.designpattern.abstract_factory_pattern.impl;
 
-import com.example.designpattern.factory_pattern.interf.Shape;
+import com.example.designpattern.abstract_factory_pattern.interf.Shape;
 
 public class Rectangle implements Shape {
 

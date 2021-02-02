@@ -2,6 +2,7 @@ package com.example.designpattern.filter_pattern;
 
 import com.example.designpattern.filter_pattern.entity.Person;
 import com.example.designpattern.filter_pattern.impl.*;
+import com.example.designpattern.filter_pattern.interf.Criteria;
 
 import java.util.ArrayList;
 import java.util.List;

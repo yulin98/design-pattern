@@ -1,4 +1,4 @@
-package com.example.designpattern.filter_pattern;
+package com.example.designpattern.filter_pattern.interf;
 
 import com.example.designpattern.filter_pattern.entity.Person;
 
