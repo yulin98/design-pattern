@@ -2,3 +2,12 @@ server:
   port: 8098
 authorization:
   sn: OO4CK7CZZI3ANZ4X
+
+spring:
+  application:
+    name: design-pattern
+  mqtt:
+    url:  tcp://121.196.110.143:1883
+    completionTimeout:  3000
+    default:
+      topic:  v1/devices/me/telemetry
